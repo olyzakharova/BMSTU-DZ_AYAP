@@ -59,7 +59,7 @@ edit file
 close file
 log file1
 chmod file1 (убирает или выставляет флаг read only)
-
+.
 
 
 
