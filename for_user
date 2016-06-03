@@ -54,12 +54,15 @@ user
 mkdir ko
 mkfile file1 123456789
 edit file(на что будет получен отказ:) )
-open file
+open file(после такого на edit отказа не будет)
 edit file
 close file
 log file1
 chmod file1 (убирает или выставляет флаг read only)
-.
+
+
+
+
 
 
 
